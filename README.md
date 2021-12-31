@@ -2,6 +2,9 @@
 @@FIVEM-BITKI@@
 
 /bitka (id)
+
+
+Pasted by sokin & zlomus
 ```
 
 ### LastRP:
